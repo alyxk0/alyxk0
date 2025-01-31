@@ -3,3 +3,4 @@
 <h3 align="center">Computer science student (ITMO), studying software engineering</h3>
 <h5 align="left">🌱 I’m currently learning Java, ML</h5>
 <h5 align="left">🌍 I speak Russian (native), English (B1)</h5>
+<h3 align="left">Languages:</h3>
